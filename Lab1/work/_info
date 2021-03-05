@@ -7,169 +7,424 @@ z2
 !i10e 25
 !i10f 100
 cModel Technology
-dC:/modeltech64_10.6d/examples
+Z0 dC:/modeltech64_10.6d/examples
 T_opt
-!s110 1614959357
-V[V1GE=3NL4B9YDz3VM=jR2
-04 8 10 work and_gate behavioral 1
-=1-982cbc14fbae-604252fc-d9-362c
-o-quiet -auto_acc_if_foreign -work work
-tCvgOpt 0
+!s110 1614971290
+V4oeTN3:_b[f=_85L9RWde0
+04 12 4 work halfadder_tb test 1
+=1-982cbc14fbae-6042819a-53-4438
+Z1 o-quiet -auto_acc_if_foreign -work work
+Z2 tCvgOpt 0
 n@_opt
-OL;O;10.6d;65
+Z3 OL;O;10.6d;65
+R0
+T_opt1
+!s110 1614973299
+Va32;FJ<DSbQc@FQJ7Tmbd0
+Z4 04 13 4 work full_adder_tb test 1
+=1-982cbc14fbae-60428973-339-3b0
+o-quiet -auto_acc_if_foreign -work work +acc
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1614971662
+V;CP?lE<Bib]jR`4A4<kBQ1
+R4
+=1-982cbc14fbae-6042830d-38c-3fc8
+R1
+R2
+n@_opt2
+R3
+R0
 Eand_gate
-Z0 w1614958402
-Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
-Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
-Z3 dC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1
-Z4 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd
-Z5 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd
+Z5 w1614958402
+Z6 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z7 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z8 dC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1
+Z9 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd
+Z10 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd
 l0
 L3
 VKB<B8zE_aVHY:ngG>;Yg02
 !s100 UNdYl[AUaEBE;oj@^D4SY2
-Z6 OL;C;10.6d;65
+Z11 OL;C;10.6d;65
 32
-Z7 !s110 1614959279
+Z12 !s110 1614973902
 !i10b 1
-Z8 !s108 1614959279.000000
-Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd|
-Z10 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd|
+Z13 !s108 1614973901.000000
+Z14 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd|
+Z15 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd|
 !i113 0
-Z11 o-work work -2002 -explicit
-Z12 tExplicit 1 CvgOpt 0
+Z16 o-work work -2002 -explicit
+Z17 tExplicit 1 CvgOpt 0
 Abehavioral
-R1
-R2
+R6
+R7
 DEx4 work 8 and_gate 0 22 KB<B8zE_aVHY:ngG>;Yg02
 l10
 L9
 V452RB`^33B;iQ>Oi]kA=l3
 !s100 ?`WXjGP_jLKKjOQM@hfA_3
-R6
-32
-R7
-!i10b 1
-R8
-R9
-R10
-!i113 0
 R11
+32
 R12
+!i10b 1
+R13
+R14
+R15
+!i113 0
+R16
+R17
 Eand_gate_vector
-Z13 w1614958518
-R1
-R2
-R3
-Z14 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd
-Z15 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd
+Z18 w1614958518
+R6
+R7
+R8
+Z19 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd
+Z20 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd
 l0
 L3
 ViVO1S29c_L[_EOFS1J1T[3
 !s100 J6D=S1RC^0cDEO^Kd]Qkg3
-R6
-32
-R7
-!i10b 1
-R8
-Z16 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd|
-Z17 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd|
-!i113 0
 R11
-R12
+32
+Z21 !s110 1614973901
+!i10b 1
+R13
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd|
+Z23 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd|
+!i113 0
+R16
+R17
 Abehavioral
-R1
-R2
+R6
+R7
 DEx4 work 15 and_gate_vector 0 22 iVO1S29c_L[_EOFS1J1T[3
 l11
 L9
 Vo5Bc^84zILZAJ1VgcDzUQ0
 !s100 NbWOKcF29ai>mChG?FLUE0
-R6
+R11
 32
-R7
+R21
 !i10b 1
-R8
+R13
+R22
+R23
+!i113 0
 R16
 R17
-!i113 0
+Edecoder_tb
+Z24 w1614970336
+R6
+R7
+R8
+Z25 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/decoder_tb.vhd
+Z26 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/decoder_tb.vhd
+l0
+L4
+VLiW>BH2XY@T5V0fUHo]B_2
+!s100 _EG:9PH8>m5c@a6B=MAI?1
 R11
+32
 R12
+!i10b 1
+Z27 !s108 1614973902.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/decoder_tb.vhd|
+Z29 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/decoder_tb.vhd|
+!i113 0
+R16
+R17
+Atest
+R6
+R7
+Z30 DEx4 work 10 decoder_tb 0 22 LiW>BH2XY@T5V0fUHo]B_2
+l15
+L6
+Z31 VDI^12E;g_8@e[nbCg?F0>1
+Z32 !s100 c@DO>JlWl^0Nm3MKo2I@91
+R11
+32
+R12
+!i10b 1
+R27
+R28
+R29
+!i113 0
+R16
+R17
+Edecoder_vec
+Z33 w1614970227
+R6
+R7
+R8
+Z34 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/Decoder_vec.vhd
+Z35 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/Decoder_vec.vhd
+l0
+L4
+VKCW68]anK9`VV<4O1>ZiZ2
+!s100 gNo__h>nMY[^K=e:XJ3OP3
+R11
+32
+R12
+!i10b 1
+R27
+Z36 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/Decoder_vec.vhd|
+Z37 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/Decoder_vec.vhd|
+!i113 0
+R16
+R17
+Abehav
+R6
+R7
+DEx4 work 11 decoder_vec 0 22 KCW68]anK9`VV<4O1>ZiZ2
+l11
+L10
+VVHe8i_JGj0H7F]YV2Z:Hz2
+!s100 G:U<Ff`ZDTSh3N^6Ni9Ka2
+R11
+32
+R12
+!i10b 1
+R27
+R36
+R37
+!i113 0
+R16
+R17
+Efull_adder
+Z38 w1614973265
+R6
+R7
+R8
+Z39 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder.vhd
+Z40 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder.vhd
+l0
+L3
+VQ1^AYmE3I3>Oo]0aa:?Gn0
+!s100 D7Pj0l^^aoLia<]R]00MS0
+R11
+32
+R12
+!i10b 1
+R27
+Z41 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder.vhd|
+Z42 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder.vhd|
+!i113 0
+R16
+R17
+Astructure
+R6
+R7
+DEx4 work 10 full_adder 0 22 Q1^AYmE3I3>Oo]0aa:?Gn0
+l23
+L9
+Vj]4fX_XMa>ohUO?<:gBUc1
+!s100 @JY6PokLLWEM00DD]n5i?1
+R11
+32
+R12
+!i10b 1
+R27
+R41
+R42
+!i113 0
+R16
+R17
+Efull_adder_tb
+Z43 w1614973469
+R6
+R7
+R8
+Z44 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder_tb.vhd
+Z45 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder_tb.vhd
+l0
+L4
+V3cm`>@TQTEN7>R3BjF7kj2
+!s100 bLflj[G>lj5WPVm0gWC=Q0
+R11
+32
+Z46 !s110 1614973473
+!i10b 1
+Z47 !s108 1614973472.000000
+Z48 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder_tb.vhd|
+Z49 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder_tb.vhd|
+!i113 0
+R16
+R17
+Atest
+R6
+R7
+DEx4 work 13 full_adder_tb 0 22 3cm`>@TQTEN7>R3BjF7kj2
+l19
+L6
+VJY4[i9OiSNR:YQ6if@L:N0
+!s100 mbLE74<YVfedW__ezj9^m2
+R11
+32
+R46
+!i10b 1
+R47
+R48
+R49
+!i113 0
+R16
+R17
+Efulladder_tb
+Z50 w1614973618
+R6
+R7
+R8
+R44
+R45
+l0
+L3
+Vz3D_Fi>UOTWDZK5=e_HK_0
+!s100 ENUf]Cg:[fDbHb;C[iTkN3
+R11
+32
+R12
+!i10b 1
+R27
+R48
+R49
+!i113 0
+R16
+R17
+Atest
+R6
+R7
+DEx4 work 12 fulladder_tb 0 22 z3D_Fi>UOTWDZK5=e_HK_0
+l11
+L4
+VSY756Gc^`SIa<Te7>6FZD2
+!s100 iWbnD6>[H<jNUXL<ND7Je1
+R11
+32
+R12
+!i10b 1
+R27
+R48
+R49
+!i113 0
+R16
+R17
 Ehalf_adder
-Z18 w1614958605
-R1
-R2
-R3
-Z19 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd
-Z20 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd
+Z51 w1614973744
+R6
+R7
+R8
+Z52 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd
+Z53 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd
 l0
 L3
 V:k4E@]e:65CD<GMP3MZ>`3
 !s100 5TfGdDh12:kW<O@BERG<]1
-R6
-32
-R7
-!i10b 1
-R8
-Z21 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd|
-Z22 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd|
-!i113 0
 R11
+32
 R12
+!i10b 1
+R27
+Z54 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd|
+Z55 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd|
+!i113 0
+R16
+R17
 Astructure
-R1
-R2
+R6
+R7
 DEx4 work 10 half_adder 0 22 :k4E@]e:65CD<GMP3MZ>`3
 l22
 L9
 V2O6Kn1g1hb@e=eEf7eG?50
 !s100 JJRi<UQJfV[N3O?hNfQ]>2
-R6
-32
-R7
-!i10b 1
-R8
-R21
-R22
-!i113 0
 R11
+32
 R12
+!i10b 1
+R27
+R54
+R55
+!i113 0
+R16
+R17
+Ehalfadder_tb
+Z56 w1614971245
+R6
+R7
+R8
+Z57 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder_tb.vhd
+Z58 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder_tb.vhd
+l0
+L3
+V:D3kZz69nRbmBaLaMMPIW3
+!s100 R9;Vz6iNLKH@SnB[k^]KE1
+R11
+32
+R12
+!i10b 1
+R27
+Z59 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder_tb.vhd|
+Z60 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder_tb.vhd|
+!i113 0
+R16
+R17
+Atest
+R6
+R7
+DEx4 work 12 halfadder_tb 0 22 :D3kZz69nRbmBaLaMMPIW3
+l16
+L5
+VZY<d]bn[OQegd^S848cT?2
+!s100 QYVEzn<oQSRXYOWFzY^8A1
+R11
+32
+R12
+!i10b 1
+R27
+R59
+R60
+!i113 0
+R16
+R17
 Eor_gate
-Z23 w1614958557
-R1
-R2
-R3
-Z24 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd
-Z25 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd
+Z61 w1614973756
+R6
+R7
+R8
+Z62 8C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd
+Z63 FC:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd
 l0
 L3
 VQWQU[99E3IE8>Ydamg>e91
 !s100 glBIk66m_K<g6?:`EU7kN2
-R6
-32
-R7
-!i10b 1
-R8
-Z26 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd|
-Z27 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd|
-!i113 0
 R11
+32
 R12
+!i10b 1
+R27
+Z64 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd|
+Z65 !s107 C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd|
+!i113 0
+R16
+R17
 Agatelevel
-R1
-R2
+R6
+R7
 DEx4 work 7 or_gate 0 22 QWQU[99E3IE8>Ydamg>e91
 l10
 L9
 V4Te4k1Vca4:P<NoK`J6Uo3
 !s100 ca[GGLPIARF`gjHTLzC0b0
-R6
-32
-R7
-!i10b 1
-R8
-R26
-R27
-!i113 0
 R11
+32
 R12
+!i10b 1
+R27
+R64
+R65
+!i113 0
+R16
+R17

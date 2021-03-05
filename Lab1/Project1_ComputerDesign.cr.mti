@@ -1,1 +1,73 @@
+{C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder_tb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity halfAdder_tb
+-- Compiling architecture test of halfAdder_tb
 
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/or.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity or_gate
+-- Compiling architecture gatelevel of or_gate
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity full_adder
+-- Compiling architecture structure of full_adder
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/4BitAnd.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate_vector
+-- Compiling architecture behavioral of and_gate_vector
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/halfAdder.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity half_adder
+-- Compiling architecture structure of half_adder
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/full_adder_tb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity fullAdder_tb
+-- Compiling architecture test of fullAdder_tb
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/decoder_tb.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/decoder_tb.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity decoder_tb
+-- Compiling architecture test of decoder_tb
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/Decoder_vec.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/Decoder_vec.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity Decoder_vec
+-- Compiling architecture behav of Decoder_vec
+
+} {} {}} {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd} {1 {vcom -work work -2002 -explicit -vopt -stats=none {C:/Users/venus/Desktop/uni2/4rd_SEMESTER/logical Design/Lab/Lab1/and.vhd}
+Model Technology ModelSim SE-64 vcom 10.6d Compiler 2018.02 Feb 24 2018
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling entity and_gate
+-- Compiling architecture behavioral of and_gate
+
+} {} {}}
