@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/modeltech64_10.6d/examples
+Epriority_encoder
+Z0 w1615215280
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dC:/Users/venus/Desktop/uni2/4rd_SEMESTER/computer architecture/Lab/Lab2
+Z4 8C:\Users\venus\Desktop\uni2\4rd_SEMESTER\computer architecture\Lab\Lab2\PriorityEncoder.vhd
+Z5 FC:\Users\venus\Desktop\uni2\4rd_SEMESTER\computer architecture\Lab\Lab2\PriorityEncoder.vhd
+l0
+L3
+VgN9jb;LDc2eNhTS0N9C=31
+!s100 52c9`RYBjm=z05jlNzIO@0
+Z6 OL;C;10.6d;65
+32
+Z7 !s110 1615215282
+!i10b 1
+Z8 !s108 1615215282.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-vopt|-stats=none|C:\Users\venus\Desktop\uni2\4rd_SEMESTER\computer architecture\Lab\Lab2\PriorityEncoder.vhd|
+Z10 !s107 C:\Users\venus\Desktop\uni2\4rd_SEMESTER\computer architecture\Lab\Lab2\PriorityEncoder.vhd|
+!i113 0
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehav
+R1
+R2
+DEx4 work 16 priority_encoder 0 22 gN9jb;LDc2eNhTS0N9C=31
+l11
+L10
+VOz:Xc]D@5SoZVi`D6NMe_3
+!s100 J`gPTcCR>TJQ`BVPi<enM2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 0
+R11
+R12
+Epriority_encoder_a
+Z13 w1615214610
+R1
+R2
+R3
+R4
+R5
+l0
+L3
+V;E1@6NCz1E6Snl6S>4nn90
+!s100 ejjZcCfUmIMO2A]=PbB712
+R6
+32
+Z14 !s110 1615214612
+!i10b 1
+Z15 !s108 1615214612.000000
+R9
+R10
+!i113 0
+R11
+R12
+Adataflow
+R1
+R2
+DEx4 work 18 priority_encoder_a 0 22 ;E1@6NCz1E6Snl6S>4nn90
+l17
+L16
+VVmjl[?`65S@o4zNihRUH<2
+!s100 jOY6CV]09R]PX^H2n1]6H0
+R6
+32
+R14
+!i10b 1
+R15
+R9
+R10
+!i113 0
+R11
+R12
