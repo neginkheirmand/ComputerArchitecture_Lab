@@ -9,5 +9,5 @@ click [here](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/mas
 ![](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/images/1.png?raw=true)
 #### testbench:
 ![](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/images/2.png?raw=true)
-#### wave form:
+#### Wave form:
 ![](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/images/3.png?raw=true)
