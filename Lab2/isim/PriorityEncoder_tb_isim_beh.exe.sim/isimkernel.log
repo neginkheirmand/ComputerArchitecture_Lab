@@ -1,0 +1,28 @@
+Command line:
+   PriorityEncoder_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  60375
+
+Mon Mar 08 20:40:28 2021
+
+
+ Elaboration Time: 0.515625 sec
+
+ Current Memory Usage: 5172.51 Meg
+
+ Total Signals          : 4
+ Total Nets             : 11
+ Total Signal Drivers   : 2
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 371
+
+ Total Simulation Time: 0.515625 sec
+
+ Current Memory Usage: 4700.65 Meg
+
+Mon Mar 08 20:54:45 2021
+

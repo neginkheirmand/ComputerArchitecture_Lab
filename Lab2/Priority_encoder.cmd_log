@@ -1,0 +1,12 @@
+xst -intstyle ise -ifn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.xst" -ofn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7z010-clg400-1 Priority_encoder.ngc Priority_encoder.ngd  
+map -intstyle ise -p xc7z010-clg400-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Priority_encoder_map.ncd Priority_encoder.ngd Priority_encoder.pcf 
+par -w -intstyle ise -ol high -mt off Priority_encoder_map.ncd Priority_encoder.ncd Priority_encoder.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml Priority_encoder.twx Priority_encoder.ncd -o Priority_encoder.twr Priority_encoder.pcf 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc7z010-clg400-1 Priority_encoder.ngc Priority_encoder.ngd  
+map -intstyle ise -p xc7z010-clg400-1 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication off -r 4 -mt off -ir off -pr off -lc off -power off -o Priority_encoder_map.ncd Priority_encoder.ngd Priority_encoder.pcf 
+par -w -intstyle ise -ol high -mt off Priority_encoder_map.ncd Priority_encoder.ncd Priority_encoder.pcf 
+trce -intstyle ise -v 3 -s 1 -n 3 -fastpaths -xml Priority_encoder.twx Priority_encoder.ncd -o Priority_encoder.twr Priority_encoder.pcf 
+xst -intstyle ise -ifn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.xst" -ofn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.syr" 
+xst -intstyle ise -ifn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.xst" -ofn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.syr" 
+xst -intstyle ise -ifn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.xst" -ofn "C:/Users/venus/Desktop/uni1/TestVHDL_project/Priority_encoder.syr" 

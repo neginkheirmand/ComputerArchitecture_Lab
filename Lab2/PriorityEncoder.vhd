@@ -25,8 +25,10 @@ process (inputs)
          outputs <= "101";
       elsif (inputs(6)='1') then
          outputs <= "110";
-      else
+      elsif (inputs(7)='1') then
          outputs <= "111";
+      else
+		null;
    end if;
 end process;
 
