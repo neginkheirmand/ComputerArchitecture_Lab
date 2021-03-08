@@ -1,6 +1,7 @@
 # Lab Report 2
 Implementation of  priority encoder(8:3) in vhdl.
-click [here](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/PriorityEncoder.vhd) to see the code and [here](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/PriorityEncoder_tb.vhd) to see the code for its testbench.
+
+Click [here](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/PriorityEncoder.vhd) to see the code and [here](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/PriorityEncoder_tb.vhd) to see the code for its testbench.
 
 #### priority encoder's truth table(8:3) :
 ![](https://github.com/neginkheirmand/ComputerArchitecture_Lab/blob/master/Lab2/images/7.jpg?raw=true)
